@@ -1,0 +1,46 @@
+name: Update PPV Playlist
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Every 3 hours UTC
+  workflow_dispatch:
+
+jobs:
+  update-ppv:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y ffmpeg
+          python -m pip install --upgrade pip
+          pip install playwright
+          playwright install firefox
+
+      - name: ▶️ Run PPV scraper
+        run: python ppv.py
+
+      - name: 🕵️‍♂️ Debug - list files after script
+        run: ls -lah
+
+      - name: 📤 Commit updated playlist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -f "PPVLand.m3u8" ]; then
+            git add PPVLand.m3u8
+            git commit -m "🔁 Auto-update PPVLand.m3u8" || echo "No changes to commit"
+            git push origin HEAD --force
+          else
+            echo "❌ PPVLand.m3u8 not found, skipping commit."
+            exit 1
+          fi

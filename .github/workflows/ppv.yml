@@ -46,3 +46,5 @@ jobs:
           else
             echo "❌ PPVLand.m3u8 not found, skipping commit."
             exit 1
+          fi
+

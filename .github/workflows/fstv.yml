@@ -1,3 +1,10 @@
+name: 🔁 Update FSTV Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"  # Every 3 hours
+
 jobs:
   scrape-and-commit:
     runs-on: ubuntu-latest
@@ -24,3 +31,19 @@ jobs:
 
       - name: ▶️ Run FSTV scraper
         run: python ./fstv.py
+
+      - name: 🧰 Force commit and push updated FSTV.m3u8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          if [ -f "FSTV_CLEANED.m3u8" ]; then
+            git add -f FSTV_CLEANED.m3u8
+            git commit -m "🔄 Auto-update of FSTV_CLEANED.m3u8 [auto]" || echo "Nothing to commit"
+            git push origin HEAD --force
+          else
+            echo "❌ FSTV_CLEANED.m3u8 not found, skipping commit."
+            exit 1
+          fi

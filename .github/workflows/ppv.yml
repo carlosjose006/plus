@@ -2,7 +2,7 @@ name: Update PPV Playlist
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Every 3 hours UTC
+    - cron: '0 */3 * * *'  # Cada 3 horas UTC
   workflow_dispatch:
 
 jobs:
@@ -45,6 +45,4 @@ jobs:
             git push origin HEAD --force
           else
             echo "❌ PPVLand.m3u8 not found, skipping commit."
-          exit 1
-          fi
-
+            exit 1

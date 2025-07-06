@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Detroit Tigers vs. Cleveland Guardians
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Houston Astros vs. Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Chicago White Sox vs. Colorado Rockies
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -29,48 +19,28 @@
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Sparks at Fever
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Grizzlies at Thunder
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Valkyries at Lynx
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",76ers at Jazz
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-#
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1136274157&e=pa&n=2701737478741948&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=bhq75f18vok8&i=0&lid=bqqn8d1f5ocx&lsa=set&mt=0&pbd=1&pbr=1&pgi=1af83g1r1so3&ph=0&pii=0&pl=540&plc=1&pli=1my0v4ne1l5w&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2frzdtwfb81w5jihkz.buyapartments.online%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3d-v4bbogpy45mbwzfhrun0w%26expires%3d1751808071%26net%3dmtcylje3mi4ync44ma%253d%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1751764871590
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1773600369&e=pa&n=4951262649182863&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=p1a6bvrdz7sb&i=0&lid=jzpa8811oyjd&lsa=set&mt=0&pbd=1&pbr=1&pgi=wheq4g143q1t&ph=0&pii=0&pl=540&plc=1&pli=1ihsfu5cpze4&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2frzdtwfb81w5jihkz.buyapartments.online%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3dihfdwqyv-5nrmaogrvvdtg%26expires%3d1751817269%26net%3dmjaundeumjyumtyy&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1751774069322
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/ve1gtdz0mlzrnlv52bt9smhfjdtm3ajfmc09yy5ywnjldzkvdoyywl3eto40ynwqgnte2yzktlkjtojdjmwmzl.m3u8
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=_zmiccn7yryezwfl3l9ula&expires=1751817277&net=mjaundeumjyumtyy
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/ve1gtdz0mlzrnlv52bt9smhfjdtm3ajfmc09sywktz1cjmxewnyqtlkrwz50sz0ugnty2m1gtl0atmirjyyq2l.m3u8
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1073738727&e=pa&n=1676184850747526&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1vto03m1pvzs&i=0&lid=jzpa8811oyjd&lsa=read&mt=0&pbd=1&pbr=1&pgi=12fgs971n5q3&ph=0&pii=0&pl=540&plc=1&pli=1tactd7g0yrm&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2frzdtwfb81w5jihkz.buyapartments.online%2fv3%2fdirector%2fve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk%2fmaster.m3u8%3fmd5%3dolvbad2wtjy26oo2lgblig%26expires%3d1751817286%26net%3dmjaundeumjyumtyy&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1751774086810
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=noq0qzv7a6ynsph2jald7w&expires=1751808097&net=mtcylje3mi4ync44ma%3d%3d
+https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/ve1gtdz0mlzrnlv52bt9smhfjdtm3ajfmc09cmknznyktmxqjy0atl1ymyh1iyhddntqwo4uwlmzjmlhdnihzl.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/ve1gtdz0mlzrnlv52bt9smhfjdtm3ajfmc09smzudmhzgmymdoyctl5czyh1cm2egntitnwctlmrzmkhjnhrzl.m3u8
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=yk2erx3sb7gqy27qe1e5pg&expires=1751817303&net=mjaundeumjyumtyy

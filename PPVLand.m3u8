@@ -1,4 +1,44 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Pistons at Heat
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Pacers at Knicks
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Hawks at Grizzlies
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Spurs at Hornets
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Rockets at Trail Blazers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Celtics at Lakers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Warriors at Raptors
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Nuggets at Clippers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -18,29 +58,29 @@
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1282508864&e=pa&n=4718011050905156&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=17cgpqikmola&i=0&lid=1ac8chu12gsp&lsa=set&mt=0&pbd=1&pbr=1&pgi=1nrkua81ea6v&ph=0&pii=0&pl=540&plc=1&pli=1ydejj6179ud&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20espn%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fvip-espn&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1ntq0ngvmztyym2i2ltk2n2itogrlnc1moty2ltmyzjqxmzbm%2fmaster.m3u8%3fmd5%3dtjv1rngjwnwe0pwsylscoa%26expires%3d1752798748%26net%3dmtcyljixmi4xnzeumtq5&pd=2&pdr=&plng=en&pni=0&pogt=stream%20espn%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1752755548540
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1327408884&e=pa&n=0903073410299801&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=19ksq111sa76&i=0&lid=1fuhkgzq9stv&lsa=set&mt=0&pbd=1&pbr=1&pgi=cx3dg713vpyw&ph=0&pii=0&pl=540&plc=1&pli=nuq37rnlhrwz&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20espn%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fvip-espn&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1ntq0ngvmztyym2i2ltk2n2itogrlnc1moty2ltmyzjqxmzbm%2fmaster.m3u8%3fmd5%3diyd6gpwmbzmxrkf3n7tq0g%26expires%3d1752808801%26net%3dntiumji1lji5lji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20espn%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1752765602053
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=1200182660&e=err&n=7954151507311608&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=brfity1swtn6&i=0&lid=1ac8chu12gsp&lsa=read&mt=0&pbd=1&pbr=1&pgi=tg93je1b1s5n&ph=0&pii=0&pl=540&plc=1&pli=je65331hwbtf&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232011&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3dgnvqmxsaov5vzna4aeumqa%26expires%3d1752798757%26net%3dmtcyljixmi4xnzeumtq5&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&sa=1752755557800
+https://prd.jwpltx.com/v1/error/ping.gif?h=253188110&e=err&n=9902650848268009&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1hzxo218qzk3&i=0&lid=1fuhkgzq9stv&lsa=read&mt=0&pbd=1&pbr=1&pgi=19vb3oi2uyxf&ph=0&pii=0&pl=540&plc=1&pli=1ia30wz1ru33&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232011&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3dnzo8eblmkiccxbmlxgp_fq%26expires%3d1752808811%26net%3dntiumji1lji5lji%253d&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&sa=1752765611596
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=yut0isfi5u_ur-_jtdjhvq&expires=1752798766&net=mtcyljixmi4xnzeumtq5
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family‌​‌​‌‌​​‌‌​‌​‌​​‌​‌​‌​‌‌‌​​‌​‌​‌ Guy
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=yw_mhubuwflbkg99cfdtew&expires=1752808820&net=ntiumji1lji5lji%3d
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​​‌‌​‌​​‌‌‌​​​​‌​​​‌‌‌​‌​​​​​​‌​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-798566336&e=pa&n=2951824754846528&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=keuvyb19fsoy&i=0&lid=1ac8chu12gsp&lsa=read&mt=0&pbd=1&pbr=1&pgi=rbftsm1wv7ka&ph=0&pii=0&pl=540&plc=1&pli=1xooiqrzrrhc&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk%2fmaster.m3u8%3fmd5%3dfelyd9xp7m04v-shzcnzbw%26expires%3d1752798774%26net%3dmtcyljixmi4xnzeumtq5&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1752755574826
+https://prd.jwpltx.com/v1/error/ping.gif?h=-62695632&e=err&n=8924260674620730&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=8w607hqst5t2&i=0&lid=1fuhkgzq9stv&lsa=read&mt=0&pbd=1&pbr=1&pgi=1uws5pbna121&ph=0&pii=0&pl=540&plc=1&pli=5xsqbh132gbw&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232011&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk%2fmaster.m3u8%3fmd5%3dk6oqi_obyr3itnhi0uylrq%26expires%3d1752808829%26net%3dntiumji1lji5lji%253d&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&sa=1752765629300
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=plwyh6pt4rrszjuwnpefew&expires=1752798782&net=mtcyljixmi4xnzeumtq5
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=axisy7togxpils7homlbpw&expires=1752808837&net=ntiumji1lji5lji%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=-1512724944&e=err&n=9898699834386795&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=o40d8h1l2avo&i=0&lid=1ac8chu12gsp&lsa=read&mt=0&pbd=1&pbr=1&pgi=glu9zlf8dwlw&ph=0&pii=0&pl=540&plc=1&pli=1iynnzp15w6g&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fkorean-central-television&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232011&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0%2fmaster.m3u8%3fmd5%3dbep3dhvxk-242sp8lji3nq%26expires%3d1752798792%26net%3dmtcyljixmi4xnzeumtq5&pogt=stream%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.land&sa=1752755592409
+https://prd.jwpltx.com/v1/error/ping.gif?h=-1163003878&e=err&n=6437679543263567&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1ac31hjmzm7s&i=0&lid=1fuhkgzq9stv&lsa=read&mt=0&pbd=1&pbr=1&pgi=mhh8jtgbqlvv&ph=0&pii=0&pl=540&plc=1&pli=k02bqawdrpw0&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fkorean-central-television&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232011&mu=https%3a%2f%2f5nhp186eg31fofnc.api-redeem-coupon.click%2fv3%2fdirector%2fve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0%2fmaster.m3u8%3fmd5%3dmypkclxegoeryhm37ovdpg%26expires%3d1752808847%26net%3dntiumji1lji5lji%253d&pogt=stream%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.land&sa=1752765647361

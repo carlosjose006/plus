@@ -69,6 +69,11 @@
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Newcastle United vs Tottenham Hotspur
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Bournemouth vs. West Ham United
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -83,22 +88,22 @@
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=900776282&e=pa&n=1948344913687367&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1vbbtwt1xtdx&i=0&lid=w413g8q3ssz1&lsa=set&mt=0&pbd=1&pbr=1&pgi=7lxiqj1r56lm&ph=0&pii=0&pl=540&plc=1&pli=17sj2gizkymv&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3d_iw4upg8dw4wavvpvponrw%26expires%3d1754245555%26net%3dmjaumta5ljk1lje2mg%253d%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1754202355882
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz/master.m3u8?md5=jhkcrqj8vjaqfdypeejumg&expires=1754255964&net=ntiumtu0ljixljux
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/ve1ao1ntbu8mbv12lxewm21ycrnwyyr3ljljz1mwokrwn4ijztctm5gtl3adz00syjntotqmm5m2nyazm/master.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​​​‌​‌​​​‌‌​‌‌​‌​‌​‌‌‌‌‌‌​‌​​​‌​ Guy
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1964696590&e=pa&n=6970921929636787&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1o2trgc1vvxu&i=0&lid=1wkjovi1ig6z&lsa=read&mt=0&pbd=1&pbr=1&pgi=9pad6k1gfnz9&ph=0&pii=0&pl=540&plc=1&pli=1npzb8jsllq7&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20cows%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-cows&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz%2fmaster.m3u8%3fmd5%3dya_3oryxn2flvobovpzfia%26expires%3d1754255974%26net%3dntiumtu0ljixljux&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20cows%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1754212774357
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​​‌‌​‌​​‌​​‌‌​‌​​​​‌​‌​‌​​‌‌​​‌‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=232475594&e=pa&n=6940289418112436&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=mnc5nh1johr4&i=0&lid=w413g8q3ssz1&lsa=read&mt=0&pbd=1&pbr=1&pgi=12nbalarlmcj&ph=0&pii=0&pl=540&plc=1&pli=lagac3uifw1i&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk%2fmaster.m3u8%3fmd5%3d9d88s-eyjbptk4dsyosksq%26expires%3d1754245573%26net%3dmjaumta5ljk1lje2mg%253d%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1754202373619
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk/master.m3u8?md5=hhfmzybxcjampop2hzskla&expires=1754255982&net=ntiumtu0ljixljux
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1960471351&e=pa&n=5939728313183956&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=rkrgpy1s7xwc&i=0&lid=w413g8q3ssz1&lsa=read&mt=0&pbd=1&pbr=1&pgi=h66o0vbjp1it&ph=0&pii=0&pl=540&plc=1&pli=164z7ur1br2c&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-the-simpsons&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4%2fmaster.m3u8%3fmd5%3dsdgg7didjltirc6oilllaa%26expires%3d1754245582%26net%3dmjaumta5ljk1lje2mg%253d%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1754202382173
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/ve1ao1ntbu8mbv12lxewm21ycrnwyyr3lwq2m3itoxednirdmtujzifwlif2n00cz5gtztymnyugo0igo/master.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/

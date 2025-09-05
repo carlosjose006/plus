@@ -1,14 +1,79 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Wings at Valkyries
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Washington Nationals vs. Chicago Cubs
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_valkyries/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Lynx at Aces
+https://gg.poocloud.in/cubs/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Chicago White Sox vs. Detroit Tigers
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_aces/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/tigers/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Milwaukee Brewers vs. Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/pirates/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",New York Mets vs. Cincinnati Reds
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/reds/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Los Angeles Dodgers vs. Baltimore Orioles
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/orioles/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Toronto Blue Jays vs. New York Yankees
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/yankees/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Philadelphia Phillies vs. Miami Marlins
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/marlins/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Seattle Mariners vs. Atlanta Braves
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/braves/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Cleveland Guardians vs. Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/rays/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Minnesota Twins vs. Kansas City Royals
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/royals/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Houston Astros vs. Texas Rangers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/rangers/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",San Francisco Giants vs. St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yjk4yju1mjgzyti5ltc0otgtzdjhnc05zmfmltnkmjhknjq4/master.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",San Diego Padres vs. Colorado Rockies
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/rockies/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Athletics vs. Los Angeles Angels
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/angels/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Boston Red Sox vs. Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/d-backs/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -18,34 +83,34 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz/master.m3u8?md5=3zb_wq_x1j7p3sgdpckkkg&expires=1757086285&net=mtmylje5ni44mc4xmzq%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz/master.m3u8?md5=rv_yq2vvxxsk-atcevdptw&expires=1757096969&net=mtcylje3nc4xnjuumji0
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=r4a6vefjmrn3_6bwgz3uaw&expires=1757086317&net=mtmylje5ni44mc4xmzq%3d
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family‌​​​​‌​​‌‌​​​‌​​​‌​‌​​​​‌​​​​‌‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=-6cfi8so-8vnt0xtz79k_a&expires=1757097002&net=mtcylje3nc4xnjuumji0
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family‌​‌​‌‌​​‌​‌​‌‌‌​‌​‌​​‌​‌‌‌‌​​​​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk/master.m3u8?md5=jlw3fvyw3x45fj8mf7onfa&expires=1757086350&net=mtmylje5ni44mc4xmzq%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1622527155&e=pa&n=2653371411581444&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=wkh5re1ufefq&i=0&lid=1d807hsoytrl&lsa=read&mt=0&pbd=1&pbr=1&pgi=1ydhyrc9hvcr&ph=0&pii=0&pl=540&plc=1&pli=74gyoh3hvxsg&pp=hlsjs&prc=1&ps=4&pss=268&pt=watch%2024%2f7%20cows%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-cows&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=0.83&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz%2fmaster.m3u8%3fmd5%3d-6cfi8so-8vnt0xtz79k_a%26expires%3d1757097002%26net%3dmtcylje3nc4xnjuumji0&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20cows%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757053834012
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=rs6z10-zmuzeyyweyeda8g&expires=1757086383&net=mtmylje5ni44mc4xmzq%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk/master.m3u8?md5=yix5flhmxs7dqwrz8nw8zq&expires=1757097036&net=mtcylje3nc4xnjuumji0
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=rs6z10-zmuzeyyweyeda8g&expires=1757086383&net=mtmylje5ni44mc4xmzq%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=o7eswzaust3zsonynjygpw&expires=1757097101&net=mtcylje3nc4xnjuumji0
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",Master stream test
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=7586uounput4ncoeiot75g&expires=1757086416&net=mtmylje5ni44mc4xmzq%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-564614375&e=pa&n=1573458447737871&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1ssu6xsumvpp&i=0&lid=1d807hsoytrl&lsa=read&mt=0&pbd=1&pbr=1&pgi=cvhtftvdz9jb&ph=0&pii=0&pl=540&plc=1&pli=1y5z5l167bio&pp=hlsjs&prc=1&ps=4&pss=258&pt=watch%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fkorean-central-television&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=0.83&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0%2fmaster.m3u8%3fmd5%3do7eswzaust3zsonynjygpw%26expires%3d1757097101%26net%3dmtcylje3nc4xnjuumji0&pd=2&pdr=&plng=en&pni=0&pogt=stream%20(north)%20korean%20central%20television%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757053932179

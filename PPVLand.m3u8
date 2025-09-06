@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Toronto Blue Jays vs. New York Yankees
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/yankees/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Baseball",Washington Nationals vs. Chicago Cubs
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -74,21 +69,11 @@ https://gg.poocloud.in/d-backs/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/angels/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Lithuania v Latvia
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=295139982&e=pa&n=0268491783090862&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1qraebj47hf9&i=0&lid=1a39gg5fivwb&lsa=set&mt=0&pbd=1&pbr=1&pgi=1qcjd4510qg5&ph=0&pii=0&pl=540&plc=1&pli=xpl8o81aiubd&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20lithuania%20v%20latvia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-06%2f210742&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-210742%2findex.m3u8%3fmd5%3dnqu5vvejkbwmk_71isjqyw%26expires%3d1757185200%26net%3dnjqumjm2ljezny4xmza%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20lithuania%20v%20latvia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757182878086
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Mercury at Sun
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wnba_sun/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Serbia v Finland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=-1414421331&e=err&n=0058967325677408&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=x898ly12v2y3&i=0&lid=1a39gg5fivwb&lsa=read&mt=0&pbd=1&pbr=1&pgi=e7fwhtax6p11&ph=0&pii=0&pl=540&plc=1&pli=13qxywm8yk8m&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20serbia%20v%20finland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-06%2f210744&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232404&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-210744%2findex.m3u8%3fmd5%3d38yhgsforxwyxnarp4thyw%26expires%3d1757196900%26net%3dnjqumjm2ljezny4xmza%253d&pogt=stream%20serbia%20v%20finland%20for%20free%20on%20ppv.land&sa=1757182904691
+https://gg.poocloud.in/courtside-1891-210744/index.m3u8?md5=38yhgsforxwyxnarp4thyw&expires=1757196900&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Lynx at Valkyries
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -98,32 +83,22 @@ https://gg.poocloud.in/wnba_valkyries/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/courtside-1891-211005/index.m3u8?md5=isfmhzqju2kr0gjx6t28xg&expires=1757248200&net=njqumjm2ljezny4xmza%3d
+https://gg.poocloud.in/courtside-1891-211005/index.m3u8?md5=isfmhzqju2kr0gjx6t28xg&expires=1757248200&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",France v Georgia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/courtside-1891-211002/index.m3u8?md5=vgzw7fwjtivmqwa2hyp-mg&expires=1757259900&net=njqumjm2ljezny4xmza%3d
+https://prd.jwpltx.com/v1/error/ping.gif?h=257178709&e=err&n=6884445875525074&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=xsx54hb513zg&i=0&lid=ndesiyvy0qrz&lsa=read&mt=0&pbd=1&pbr=1&pgi=xvcak711oa67&ph=0&pii=0&pl=540&plc=1&pli=17i9rb21cmqm&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20france%20v%20georgia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-07%2f211002&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-211002%2findex.m3u8%3fmd5%3dvgzw7fwjtivmqwa2hyp-mg%26expires%3d1757259900%26net%3dmtcylje4mi4ymtiumg%253d%253d&pogt=stream%20france%20v%20georgia%20for%20free%20on%20ppv.land&sa=1757193396288
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Italy v Slovenia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1036461519&e=pa&n=2380583708029533&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1nr07tqsgc7f&i=0&lid=1a39gg5fivwb&lsa=read&mt=0&pbd=1&pbr=1&pgi=1a4dhiykwpwa&ph=0&pii=0&pl=540&plc=1&pli=1pjgmf11bgn1&pp=hlsjs&ppm=vod&prc=1&ps=4&pss=3&pt=watch%20italy%20v%20slovenia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-07%2f211004&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-211004%2findex.m3u8%3fmd5%3dumj1k-yolpakt2g4b-6wfq%26expires%3d1757271600%26net%3dnjqumjm2ljezny4xmza%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20italy%20v%20slovenia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757182955130
+https://gg.poocloud.in/courtside-1891-211004/index.m3u8?md5=umj1k-yolpakt2g4b-6wfq&expires=1757271600&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Greece v Israel
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=384276826&e=err&n=9944862873966809&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=4bbimfsqeq6i&i=0&lid=1a39gg5fivwb&lsa=read&mt=0&pbd=1&pbr=1&pgi=w4ieam737byw&ph=0&pii=0&pl=540&plc=1&pli=1m328cd1ostb&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20greece%20v%20israel%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-07%2f211003&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-211003%2findex.m3u8%3fmd5%3dp3uixnffljdxgdccay3oiq%26expires%3d1757283300%26net%3dnjqumjm2ljezny4xmza%253d&pogt=stream%20greece%20v%20israel%20for%20free%20on%20ppv.land&sa=1757182960639
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",England vs Andorra
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/england-andorra/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Armenia vs Portugal
-#EXTVLCOPT:http-origin=https://veplay.top
-#EXTVLCOPT:http-referrer=https://veplay.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/armenia-portugal/index.m3u8
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1219853010&e=pa&n=7416748834160829&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=12f99h7r7jlp&i=0&lid=ndesiyvy0qrz&lsa=read&mt=0&pbd=1&pbr=1&pgi=6iave613nbr9&ph=0&pii=0&pl=540&plc=1&pli=gg39lswa5wi4&pp=hlsjs&ppm=vod&prc=1&ps=4&pss=3&pt=watch%20greece%20v%20israel%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fcourtside-1891%2f2025-09-07%2f211003&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fcourtside-1891-211003%2findex.m3u8%3fmd5%3dp3uixnffljdxgdccay3oiq%26expires%3d1757283300%26net%3dmtcylje4mi4ymtiumg%253d%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20greece%20v%20israel%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757193424352
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Austria vs Cyprus
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -138,7 +113,7 @@ https://gg.poocloud.in/sm-bosnia/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/ireland-hungary/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/ireland-hungary/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -148,29 +123,29 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=657982468&e=pa&n=9647659187251666&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1wihxqvm4bs3&i=0&lid=1a39gg5fivwb&lsa=read&mt=0&pbd=1&pbr=1&pgi=1a7felvjwdiu&ph=0&pii=0&pl=540&plc=1&pli=zrb0xoey82hu&pp=hlsjs&prc=1&ps=4&pss=15&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz%2fmaster.m3u8%3fmd5%3dhtdfumzk5b81rbhvgaev5q%26expires%3d1757226236%26net%3dnjqumjm2ljezny4xmza%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757183038236
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1zgeyndnkzwmynzfjlwu2owitnzflnc00nwu5ltuyody0mwiz/master.m3u8?md5=hkvsn8mztxvmkiakeo8nda&expires=1757236675&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=jfb7h7z4pmlikclsqrjtea&expires=1757226268&net=njqumjm2ljezny4xmza%3d
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=qfkz5ciup3qerunc1hhcga&expires=1757236709&net=mtcylje4mi4ymtiumg%3d%3d
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family‌​‌​‌‌​​‌​‌‌​‌‌​‌‌​‌​‌​​​​​​​​‌​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=314840045&e=pa&n=2595680237968683&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=pnyoblg56piy&i=0&lid=1a39gg5fivwb&lsa=read&mt=0&pbd=1&pbr=1&pgi=1w9duwk5z2lf&ph=0&pii=0&pl=540&plc=1&pli=7vb6ft1c4ag5&pp=hlsjs&prc=1&ps=4&pss=88&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2f5nhp186eg31fofnc.chinese-restaurant-api.site%2fv3%2fdirector%2fve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk%2fmaster.m3u8%3fmd5%3dn55y68xpj8p9ro6exwm8jg%26expires%3d1757226301%26net%3dnjqumjm2ljezny4xmza%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1757183113083
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk/master.m3u8?md5=j4z1s0w735elgj0pdnf80g&expires=1757236742&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yta5ztu3mjfhnti0lwrkztktztrlnc1mmzu4ltqwmwi0yjjk/master.m3u8?md5=n55y68xpj8p9ro6exwm8jg&expires=1757226301&net=njqumjm2ljezny4xmza%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mgqznzi5mte0yjqwltvmymetyme3nc1kothllwy2mmu4ngi4/master.m3u8?md5=lhgvpabbcqt1xv8wie1dra&expires=1757236774&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",(North) Korean Central Television
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=dww58u0b2sjtfx9-oqfvwa&expires=1757226367&net=njqumjm2ljezny4xmza%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=yoo3ux65xqbj8rlnvmfadq&expires=1757236807&net=mtcylje4mi4ymtiumg%3d%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",Master stream test
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=dww58u0b2sjtfx9-oqfvwa&expires=1757226367&net=njqumjm2ljezny4xmza%3d
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1mtm1mgfmmdizodi3ltk3y2etmdzhnc0ynta3lwy0m2q4nme0/master.m3u8?md5=yoo3ux65xqbj8rlnvmfadq&expires=1757236807&net=mtcylje4mi4ymtiumg%3d%3d

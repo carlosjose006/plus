@@ -19,206 +19,231 @@ https://gg.poocloud.in/yankees/index.m3u8
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/dodgers/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Spurs at Heat
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/heat/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Jazz at Rockets
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/rockets/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Celtics at Grizzlies
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/grizzlies/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Trail Blazers at Warriors
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/warriors/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Raptors at Kings
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+https://gg.poocloud.in/kings/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Finland vs. Lithuania
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1647966547&e=pa&n=8494087637056136&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1d51ww05w7mg&i=0&lid=1868a2zym291&lsa=set&mt=0&pbd=1&pbr=1&pgi=1ukd6801aoqm&ph=0&pii=0&pl=540&plc=1&pli=145yfwtzdzzi&pp=hlsjs&prc=1&ps=4&pss=5&pt=watch%20finland%20vs.%20lithuania%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2ffin-ltu&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_finland%2findex.m3u8%3fmd5%3dwfpjwy9xohjuywyb9ttica%26expires%3d1760039100%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20finland%20vs.%20lithuania%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904639102
+https://gg.poocloud.in/wc_finland/index.m3u8?md5=wfpjwy9xohjuywyb9ttica&expires=1760039100&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Czechia vs. Croatia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=262828458&e=err&n=7715250390711395&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1gnfp16sc93y&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=12xwpgrjt8up&ph=0&pii=0&pl=540&plc=1&pli=1dj1iu816pze&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20czechia%20vs.%20croatia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fcze-cro&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_czechia%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dntiumtu5lji0nc4xnji%253d&pogt=stream%20czechia%20vs.%20croatia%20for%20free%20on%20ppv.land&sa=1759904644641
+https://prd.jwpltx.com/v1/error/ping.gif?h=767164154&e=err&n=8857661651811599&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1llmrg21ehue&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=4q7rey1xzvr0&ph=0&pii=0&pl=540&plc=1&pli=4b9i8u1yrtkj&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20czechia%20vs.%20croatia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fcze-cro&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_czechia%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dnjqumjm2lje1my4xnju%253d&pogt=stream%20czechia%20vs.%20croatia%20for%20free%20on%20ppv.land&sa=1759915163057
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Scotland vs. Greece
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1924466047&e=pa&n=7064578030192076&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=rn63m61nyuzf&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=pwmky7ubnlkq&ph=0&pii=0&pl=540&plc=1&pli=80yaog1hfw9z&pp=hlsjs&prc=1&ps=4&pss=5&pt=watch%20scotland%20vs.%20greece%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fsco-gre&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_scotland%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20scotland%20vs.%20greece%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904656257
+https://gg.poocloud.in/wc_scotland/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Belarus vs. Denmark
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_belarus/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/error/ping.gif?h=-1306737965&e=err&n=0445081354240884&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=q49yy43ad4kc&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=qkbsb41iby98&ph=0&pii=0&pl=540&plc=1&pli=1e14wosjz74y&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20belarus%20vs.%20denmark%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fblr-den&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_belarus%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dnjqumjm2lje1my4xnju%253d&pogt=stream%20belarus%20vs.%20denmark%20for%20free%20on%20ppv.land&sa=1759915179762
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Cyprus vs. Bosnia and Herzegovina
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=787479225&e=err&n=4496791395282710&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=e2oonz1e96cu&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=2wtfj71jiuwt&ph=0&pii=0&pl=540&plc=1&pli=1pma5f6ryd1k&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20cyprus%20vs.%20bosnia%20and%20herzegovina%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fcyp-bih&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_cyprus%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dntiumtu5lji0nc4xnji%253d&pogt=stream%20cyprus%20vs.%20bosnia%20and%20herzegovina%20for%20free%20on%20ppv.land&sa=1759904670559
+https://gg.poocloud.in/wc_cyprus/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Faroe Islands vs. Montenegro
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_faroe-islands/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1479149961&e=pa&n=6882284650035564&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=13ad1a2mis59&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=i2qwe21whzho&ph=0&pii=0&pl=540&plc=1&pli=t55qza1k2s9o&pp=hlsjs&prc=1&ps=4&pss=9&pt=watch%20faroe%20islands%20vs.%20montenegro%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2ffro-mne&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_faroe-islands%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20faroe%20islands%20vs.%20montenegro%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915203116
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Malta vs. Netherlands
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_malta/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1516764844&e=pa&n=5356760863703264&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=15hy6oxe1qfc&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=11ch62gur8bd&ph=0&pii=0&pl=540&plc=1&pli=1ip64ur16t50&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20malta%20vs.%20netherlands%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-09%2fmlt-ned&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_malta%2findex.m3u8%3fmd5%3dj-y-q3i3_tfcoawphxmjka%26expires%3d1760049000%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20malta%20vs.%20netherlands%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915205158
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Austria vs. San Marino
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_austria/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_austria/index.m3u8?md5=j-y-q3i3_tfcoawphxmjka&expires=1760049000&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Kazakhstan vs. Liechtenstein
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1679137696&e=pa&n=3383945368514490&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=qc9zbwu5h9z7&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1196k095ybmb&ph=0&pii=0&pl=540&plc=1&pli=1y6yjde1ur2b&pp=hlsjs&prc=1&ps=4&pss=3&pt=watch%20kazakhstan%20vs.%20liechtenstein%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fkaz-lie&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_kazakhstan%2findex.m3u8%3fmd5%3dl1zoxi8oiiwyhopitnxwkg%26expires%3d1760118300%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20kazakhstan%20vs.%20liechtenstein%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904706271
+https://gg.poocloud.in/wc_kazakhstan/index.m3u8?md5=l1zoxi8oiiwyhopitnxwkg&expires=1760118300&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",France vs. Azerbaijan
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_france/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-753118011&e=pa&n=7682162716869639&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1k7urcp1hqg1&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=3c552lebpmy3&ph=0&pii=0&pl=540&plc=1&pli=5trrebcni733&pp=hlsjs&prc=1&ps=4&pss=5&pt=watch%20france%20vs.%20azerbaijan%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2ffra-aze&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_france%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20france%20vs.%20azerbaijan%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915233740
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Germany vs. Luxembourg
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_germany/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1150946526&e=pa&n=7784706072095416&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=pqaq50uaiquh&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1k6hqmrgfo8x&ph=0&pii=0&pl=540&plc=1&pli=1olhlw11nwc7&pp=hlsjs&prc=1&ps=4&pss=10&pt=watch%20germany%20vs.%20luxembourg%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fger-lux&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_germany%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20germany%20vs.%20luxembourg%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915246125
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Belgium vs. North Macedonia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_belgium/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1600333269&e=pa&n=0051942544073483&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=13qwtvvjc45g&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=9neyna17eail&ph=0&pii=0&pl=540&plc=1&pli=tgk79fxumrn7&pp=hlsjs&prc=1&ps=4&pss=2&pt=watch%20belgium%20vs.%20north%20macedonia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fbel-mkd&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_belgium%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20belgium%20vs.%20north%20macedonia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915248252
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Sweden vs. Switzerland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_sweden/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_sweden/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Iceland vs. Ukraine
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_iceland/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1276475193&e=pa&n=1351500006317278&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1t39hfb1yti7&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=x1f01f1ydlzp&ph=0&pii=0&pl=540&plc=1&pli=1s9djw1uxghy&pp=hlsjs&prc=1&ps=4&pss=11&pt=watch%20sweden%20vs.%20switzerland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fswe-sui&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_sweden%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20sweden%20vs.%20switzerland%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915263527
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Northern Ireland vs. Slovakia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_northern-ireland/index.m3u8?md5=rykoeh8q_bwgok-zagseqw&expires=1760135400&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/error/ping.gif?h=1873868756&e=err&n=5270158334097924&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=bd5xmmgs9p56&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=avm89kgn2hfs&ph=0&pii=0&pl=540&plc=1&pli=4noze11195k0&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20northern%20ireland%20vs.%20slovakia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fnir-svk&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_northern-ireland%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pogt=stream%20northern%20ireland%20vs.%20slovakia%20for%20free%20on%20ppv.land&sa=1759915273378
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Kosovo vs. Slovenia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1289757453&e=pa&n=0832090437721509&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1vll90i18v2o&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1ghxco71s1o8&ph=0&pii=0&pl=540&plc=1&pli=nrqrab1xpax1&pp=hlsjs&prc=1&ps=4&pss=5&pt=watch%20kosovo%20vs.%20slovenia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fkos-svn&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_kosovo%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20kosovo%20vs.%20slovenia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904768449
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=285922512&e=pa&n=7593738106914038&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=dlrs8y1sm6x3&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=znlu53mqe8vc&ph=0&pii=0&pl=540&plc=1&pli=p5qm9cusysvg&pp=hlsjs&prc=1&ps=4&pss=3&pt=watch%20kosovo%20vs.%20slovenia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-10%2fkos-svn&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_kosovo%2findex.m3u8%3fmd5%3drykoeh8q_bwgok-zagseqw%26expires%3d1760135400%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20kosovo%20vs.%20slovenia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915283119
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Latvia vs. Andorra
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_latvia/index.m3u8?md5=mdmzec2xkkwkfvhcypxznw&expires=1760201100&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/error/ping.gif?h=692931991&e=err&n=9960563696132516&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1hha5nv5q90l&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=5t11wibd8tkp&ph=0&pii=0&pl=540&plc=1&pli=uf1xap1ki9xi&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20latvia%20vs.%20andorra%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2flva-and&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_latvia%2findex.m3u8%3fmd5%3dmdmzec2xkkwkfvhcypxznw%26expires%3d1760201100%26net%3dnjqumjm2lje1my4xnju%253d&pogt=stream%20latvia%20vs.%20andorra%20for%20free%20on%20ppv.land&sa=1759915290015
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Hungary vs. Armenia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_hungary/index.m3u8?md5=syszb6n3kaml-kv0wdssha&expires=1760211900&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_hungary/index.m3u8?md5=syszb6n3kaml-kv0wdssha&expires=1760211900&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Norway vs. Israel
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=98006967&e=pa&n=9721234923946066&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=10ifzh109bk5&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1vk4ojam8m6k&ph=0&pii=0&pl=540&plc=1&pli=1d8wbbw1flcy&pp=hlsjs&prc=1&ps=4&pss=9&pt=watch%20norway%20vs.%20israel%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2fnor-isr&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_norway%2findex.m3u8%3fmd5%3dsyszb6n3kaml-kv0wdssha%26expires%3d1760211900%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20norway%20vs.%20israel%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904798788
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1212303089&e=pa&n=5524724099058533&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=yfj3l4un4n38&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=iv9tsxkynlzh&ph=0&pii=0&pl=540&plc=1&pli=15ef17w16fl0&pp=hlsjs&prc=1&ps=4&pss=3&pt=watch%20norway%20vs.%20israel%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2fnor-isr&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_norway%2findex.m3u8%3fmd5%3dsyszb6n3kaml-kv0wdssha%26expires%3d1760211900%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20norway%20vs.%20israel%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915308088
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Portugal vs. Republic of Ireland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1143253119&e=pa&n=4318842738307045&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=kbq4ck1xkroj&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1ebkgv4k7j16&ph=0&pii=0&pl=540&plc=1&pli=wbop261vcbnw&pp=hlsjs&prc=1&ps=4&pss=4&pt=watch%20portugal%20vs.%20republic%20of%20ireland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2fpor-irl&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_portugal%2findex.m3u8%3fmd5%3dlwngzv1fwa-k--o6kiyd5q%26expires%3d1760221800%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20portugal%20vs.%20republic%20of%20ireland%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904803450
+https://gg.poocloud.in/wc_portugal/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Estonia vs. Italy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_estonia/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1499788925&e=pa&n=0782318368202305&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=19dhj1x7c73b&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=cserz6132hnl&ph=0&pii=0&pl=540&plc=1&pli=1ha0vu1199sf&pp=hlsjs&prc=1&ps=4&pss=4&pt=watch%20estonia%20vs.%20italy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2fest-ita&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_estonia%2findex.m3u8%3fmd5%3dlwngzv1fwa-k--o6kiyd5q%26expires%3d1760221800%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20estonia%20vs.%20italy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915325598
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Spain vs. Georgia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_spain/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_estonia/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Bulgaria vs. Türki̇ye
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_bulgaria/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_bulgaria/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Serbia vs. Albania
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/error/ping.gif?h=1934321268&e=err&n=0692214753882138&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=11zf1hb6p6qw&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=180c2av19p8t&ph=0&pii=0&pl=540&plc=1&pli=nvqwyw163z8z&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20serbia%20vs.%20albania%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-11%2fsrb-alb&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&cme=0&erc=232600&mu=https%3a%2f%2fgg.poocloud.in%2fwc_serbia%2findex.m3u8%3fmd5%3dlwngzv1fwa-k--o6kiyd5q%26expires%3d1760221800%26net%3dntiumtu5lji0nc4xnji%253d&pogt=stream%20serbia%20vs.%20albania%20for%20free%20on%20ppv.land&sa=1759904835418
+https://gg.poocloud.in/wc_serbia/index.m3u8?md5=lwngzv1fwa-k--o6kiyd5q&expires=1760221800&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",San Marino vs. Cyprus
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_san-marino/index.m3u8?md5=qnnmbtkjzvu3cf5wng29uw&expires=1760287500&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1825674662&e=pa&n=8379301683680326&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=xr5a5q1viqv0&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=dnv3k85xd2yf&ph=0&pii=0&pl=540&plc=1&pli=tdxtv31tlxwv&pp=hlsjs&prc=1&ps=4&pss=9&pt=watch%20san%20marino%20vs.%20cyprus%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fsmr-cyp&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_san-marino%2findex.m3u8%3fmd5%3dqnnmbtkjzvu3cf5wng29uw%26expires%3d1760287500%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20san%20marino%20vs.%20cyprus%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915362656
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Scotland vs. Belarus
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=441348475&e=pa&n=8480999789716738&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=brk7n61mxhjj&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=6l7qkcke071s&ph=0&pii=0&pl=540&plc=1&pli=4lfgvlzwbxgm&pp=hlsjs&prc=1&ps=4&pss=9&pt=watch%20scotland%20vs.%20belarus%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fsco-blr&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_scotland%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20scotland%20vs.%20belarus%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904858756
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=63362239&e=pa&n=8073543840139383&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1pxovyq1dzhu&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1826oahchyew&ph=0&pii=0&pl=540&plc=1&pli=q55uidwn4sf7&pp=hlsjs&prc=1&ps=4&pss=4&pt=watch%20scotland%20vs.%20belarus%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fsco-blr&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_scotland%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20scotland%20vs.%20belarus%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915367083
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Faroe Islands vs. Czechia
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1225033826&e=pa&n=4167617461454217&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=18fl5xckmnos&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=fsuujhk6tbwq&ph=0&pii=0&pl=540&plc=1&pli=1a1684i2sb06&pp=hlsjs&prc=1&ps=4&pss=8&pt=watch%20faroe%20islands%20vs.%20czechia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2ffro-cze&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_faroe-islands%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20faroe%20islands%20vs.%20czechia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904866659
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1205798265&e=pa&n=5175565922433601&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1kzd7la1xj8v&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=cm4udn1wokj6&ph=0&pii=0&pl=540&plc=1&pli=1n30jek1c7it&pp=hlsjs&prc=1&ps=4&pss=6&pt=watch%20faroe%20islands%20vs.%20czechia%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2ffro-cze&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_faroe-islands%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20faroe%20islands%20vs.%20czechia%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915376957
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Netherlands vs. Finland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=611973516&e=pa&n=3538693266056386&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=ht9chm1289en&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=w8bayqvpnpt8&ph=0&pii=0&pl=540&plc=1&pli=ps1vgeuxgnpt&pp=hlsjs&prc=1&ps=4&pss=8&pt=watch%20netherlands%20vs.%20finland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fned-fin&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_netherlands%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20netherlands%20vs.%20finland%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904875174
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=556385472&e=pa&n=8119335228057505&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=15mdenppma57&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=mcex6r1v98d3&ph=0&pii=0&pl=540&plc=1&pli=6xf5qo11ftxx&pp=hlsjs&prc=1&ps=4&pss=3&pt=watch%20netherlands%20vs.%20finland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fned-fin&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_netherlands%2findex.m3u8%3fmd5%3dtgce-40y535dvtqtoliknq%26expires%3d1760298300%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20netherlands%20vs.%20finland%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915382885
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Croatia vs. Gibraltar
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-2057714583&e=pa&n=6068196636626733&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=goksg678kjjl&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1n1bwu6133jo&ph=0&pii=0&pl=540&plc=1&pli=hduo2l4hpl5n&pp=hlsjs&prc=1&ps=4&pss=6&pt=watch%20croatia%20vs.%20gibraltar%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fcro-gib&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_croatia%2findex.m3u8%3fmd5%3d5odyg6ogjcuhh52ybovteg%26expires%3d1760308200%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20croatia%20vs.%20gibraltar%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904881967
+https://gg.poocloud.in/wc_croatia/index.m3u8?md5=5odyg6ogjcuhh52ybovteg&expires=1760308200&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Denmark vs. Greece
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_denmark/index.m3u8?md5=5odyg6ogjcuhh52ybovteg&expires=1760308200&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=992294104&e=pa&n=1513879369764093&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=184azwe17jrz&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=itrcn6epr212&ph=0&pii=0&pl=540&plc=1&pli=1to3zrd1n247&pp=hlsjs&prc=1&ps=4&pss=8&pt=watch%20denmark%20vs.%20greece%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fden-gre&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_denmark%2findex.m3u8%3fmd5%3d5odyg6ogjcuhh52ybovteg%26expires%3d1760308200%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20denmark%20vs.%20greece%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915403460
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Lithuania vs. Poland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_lithuania/index.m3u8?md5=5odyg6ogjcuhh52ybovteg&expires=1760308200&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1591725476&e=pa&n=1789549476824475&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=13qqiii98c8t&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1mknu2z52cm9&ph=0&pii=0&pl=540&plc=1&pli=1ei7fs1kapa5&pp=hlsjs&prc=1&ps=4&pss=7&pt=watch%20lithuania%20vs.%20poland%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2fltu-pol&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_lithuania%2findex.m3u8%3fmd5%3d5odyg6ogjcuhh52ybovteg%26expires%3d1760308200%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20lithuania%20vs.%20poland%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915410940
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Romania vs. Austria
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_romania/index.m3u8?md5=5odyg6ogjcuhh52ybovteg&expires=1760308200&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1785985987&e=pa&n=7665030738598879&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1ako9s81eyrn&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1n0q4fz1lltp&ph=0&pii=0&pl=540&plc=1&pli=dyby9l1rmhum&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%20romania%20vs.%20austria%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-12%2frou-aut&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_romania%2findex.m3u8%3fmd5%3d5odyg6ogjcuhh52ybovteg%26expires%3d1760308200%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20romania%20vs.%20austria%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915414521
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Iceland vs. France
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1639207491&e=pa&n=3879456821291032&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=ci675919l6a4&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=3bd0g31vaogf&ph=0&pii=0&pl=540&plc=1&pli=kqlbfuocidfn&pp=hlsjs&prc=1&ps=4&pss=10&pt=watch%20iceland%20vs.%20france%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fisl-fra&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_iceland%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20iceland%20vs.%20france%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904921920
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-854145098&e=pa&n=1832413610516984&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=17gzqkn12uoz&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1ekm2eir2lk3&ph=0&pii=0&pl=540&plc=1&pli=nurs5b1u4do4&pp=hlsjs&prc=1&ps=4&pss=6&pt=watch%20iceland%20vs.%20france%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fisl-fra&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_iceland%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20iceland%20vs.%20france%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915426878
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Northern Ireland vs. Germany
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_northern-ireland/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_northern-ireland/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Ukraine vs. Azerbaijan
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=72211538&e=pa&n=5705037394572881&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1kyr1iw1h8yw&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=l9ilqeief7ft&ph=0&pii=0&pl=540&plc=1&pli=1pzcz4u6btxm&pp=hlsjs&prc=1&ps=4&pss=10&pt=watch%20ukraine%20vs.%20azerbaijan%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fukr-aze&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_ukraine%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20ukraine%20vs.%20azerbaijan%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904938815
+https://gg.poocloud.in/wc_northern-ireland/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Sweden vs. Kosovo
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_sweden/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1433428027&e=pa&n=8985887803713141&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=9q3qtj1d41lm&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=3be4lx8ucz3c&ph=0&pii=0&pl=540&plc=1&pli=1lkj9q41kd15&pp=hlsjs&prc=1&ps=4&pss=4&pt=watch%20sweden%20vs.%20kosovo%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fswe-kos&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_sweden%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20sweden%20vs.%20kosovo%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915450210
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Wales vs. Belgium
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-1711327841&e=pa&n=9678466134720677&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1sy2bezt4gfb&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1l8lg4j1lrus&ph=0&pii=0&pl=540&plc=1&pli=12p3z311ycjj&pp=hlsjs&prc=1&ps=4&pss=2&pt=watch%20wales%20vs.%20belgium%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fwal-bel&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_wales%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20wales%20vs.%20belgium%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904950112
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=935684719&e=pa&n=7889556974718402&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=4mwi2txnrnqn&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=16prd5s15i9i&ph=0&pii=0&pl=540&plc=1&pli=2fct781wra5u&pp=hlsjs&prc=1&ps=4&pss=6&pt=watch%20wales%20vs.%20belgium%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fwal-bel&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_wales%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20wales%20vs.%20belgium%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915460056
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Slovakia vs. Luxembourg
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-843213757&e=pa&n=8167650340568210&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=1ej9vrv7zv4h&i=0&lid=1868a2zym291&lsa=read&mt=0&pbd=1&pbr=1&pgi=1p3gdwl1po3k&ph=0&pii=0&pl=540&plc=1&pli=remdw2lhbjyf&pp=hlsjs&prc=1&ps=4&pss=4&pt=watch%20slovakia%20vs.%20luxembourg%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fsvk-lux&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_slovakia%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dntiumtu5lji0nc4xnji%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20slovakia%20vs.%20luxembourg%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759904960206
+https://gg.poocloud.in/wc_slovakia/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Slovenia vs. Switzerland
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_slovenia/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/wc_slovenia/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",North Macedonia vs. Kazakhstan
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wc_north-macedonia/index.m3u8?md5=_izjqftyjt6ozflqkyb5gg&expires=1760394600&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1724296075&e=pa&n=6358713998091051&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=lw2pm7119vmj&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=1jsh0fm1mhyl&ph=0&pii=0&pl=540&plc=1&pli=1j297111v3at&pp=hlsjs&prc=1&ps=4&pss=9&pt=watch%20north%20macedonia%20vs.%20kazakhstan%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2fwc%2f2025-10-13%2fmkd-kaz&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fwc_north-macedonia%2findex.m3u8%3fmd5%3d_izjqftyjt6ozflqkyb5gg%26expires%3d1760394600%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%20north%20macedonia%20vs.%20kazakhstan%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915488070
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -233,7 +258,7 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: Crown Jewel Perth
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -243,17 +268,17 @@ https://gg.poocloud.in/wwe/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/southpark/index.m3u8?md5=3v_plzcrdteho3_fjj1stw&expires=1759949120&net=ntiumtu5lji0nc4xnji%3d
+https://gg.poocloud.in/southpark/index.m3u8?md5=tddttcfdohrmqkrx1jd7pw&expires=1759959630&net=njqumjm2lje1my4xnju%3d
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=o_yt9lryr2vug96r7g3aoq&expires=1759949129&net=ntiumtu5lji0nc4xnji%3d
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​​‌‌​‌​​‌​​‌‌‌‌‌‌‌‌‌​‌​​‌​‌​​​‌​ Guy
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/ve1yzlmnwm5zgq1odjmltcxotgtnzbknc1hyzm5lwqyowm3mjaz/master.m3u8?md5=4ef5dgjd0pkuj4p4v53cjq&expires=1759959638&net=njqumjm2lje1my4xnju%3d
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​‌‌​​‌‌​‌​​‌​‌ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/familyguy/index.m3u8?md5=hrfvoewxvzycdj8s5oluaa&expires=1759949138&net=ntiumtu5lji0nc4xnji%3d
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1783447334&e=pa&n=2987292177129023&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=l4me9x182m5k&i=0&lid=3bbv848w1c1o&lsa=read&mt=0&pbd=1&pbr=1&pgi=dauss31o8wsm&ph=0&pii=0&pl=540&plc=1&pli=175jgykzv1uu&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=500&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2ffamilyguy%2findex.m3u8%3fmd5%3dazbnbmvbjz43mb5c_2055w%26expires%3d1759959646%26net%3dnjqumjm2lje1my4xnju%253d&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1759915547182
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/

@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",New Orleans Pelicans vs. Denver Nuggets
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Orlando Magic vs. Charlotte Hornets
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/nba_denvernuggets/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Portland Trail Blazers vs. Utah Jazz
+https://gg.poocloud.in/nba_charlottehornets/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Golden State Warriors vs. Milwaukee Bucks
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/nba_utahjazz/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Los Angeles Lakers vs. Minnesota Timberwolves
+https://gg.poocloud.in/nba_milwaukeebucks/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Washington Wizards vs. Oklahoma City Thunder
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/nba_minnesotatimberwolves/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Memphis Grizzlies vs. Phoenix Suns
+https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Miami Heat vs. San Antonio Spurs
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/nba_phoenixsuns/index.m3u8
+https://gg.poocloud.in/nba_sanantoniospurs/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Cagliari vs. Sassuolo
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -228,7 +228,7 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -238,22 +238,22 @@ https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1983586439&e=pa&n=3401484207677150&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=zyg7841d2rn5&i=0&lid=1stn5yk1cetv&lsa=set&mt=0&pbd=1&pbr=1&pgi=gjk9kyrj8keo&ph=0&pii=0&pl=540&plc=1&pli=7cmhkk1o96yl&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fsouthpark%2findex.m3u8&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1761796118935
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=2080902485&e=e&n=9736228238565235&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=fdn9ub1wz6k7&i=0&lid=6m286t1k9buw&lsa=set&mt=0&pbd=1&pbr=1&pgi=h623x1euk0n3&ph=0&pii=0&pl=540&plc=1&pli=1epn6p91rq0h&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20south%20park%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-south-park&pv=8.36.4&pyc=0&s=0&sdk=0&ss=1&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&cae=0&cb=1&cdid=player&cme=0&dd=1&dnt=unspecified&flc=0&fv=&ga=0&lng=en&mk=hls&mu=https%3a%2f%2fgg.poocloud.in%2fsouthpark%2findex.m3u8&pbc=0&pd=2&pdr=&plng=en&plt=300&pni=0&po=1&pogt=stream%2024%2f7%20south%20park%20for%20free%20on%20ppv.land&sp=0&st=230&sa=1761805728407
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​​‌‌‌​​​‌​​‌‌ Guy
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family​​​‌​‌​​​​‌‌​‌‌‌​​​​‌‌‌‌​‌‌​​‌​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-29158758&e=pa&n=3543915077215262&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=n998bhepau2e&i=0&lid=1stn5yk1cetv&lsa=read&mt=0&pbd=1&pbr=1&pgi=1x4s1luedb6y&ph=0&pii=0&pl=540&plc=1&pli=17nlzucjcpna&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2ffamilyguy%2findex.m3u8&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1761796136695
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=1787205402&e=pa&n=8658017623386096&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=meeb7q1g89fu&i=0&lid=6m286t1k9buw&lsa=read&mt=0&pbd=1&pbr=1&pgi=8o0r0e10ynt1&ph=0&pii=0&pl=540&plc=1&pli=19hxuy9r3loc&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20family%20guy%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-family-guy&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2ffamilyguy%2findex.m3u8&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20family%20guy%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1761805745851
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=367926340&e=pa&n=6754512362354184&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=sub7rs17w2hv&i=0&lid=1stn5yk1cetv&lsa=read&mt=0&pbd=1&pbr=1&pgi=1kchhd61hdih&ph=0&pii=0&pl=540&plc=1&pli=nv1swsvr9zqr&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-the-simpsons&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fthesimpsons%2findex.m3u8&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1761796145198
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-664569083&e=pa&n=7168308191569168&aid=_&amp=0&at=1&c=-1&ccp=0&cp=0&d=0&eb=0&ed=0&emi=cuu8davck0zp&i=0&lid=6m286t1k9buw&lsa=read&mt=0&pbd=1&pbr=1&pgi=1rtgr111ixwx&ph=0&pii=0&pl=540&plc=1&pli=1705bxa1wu7k&pp=hlsjs&prc=1&ps=4&pss=1&pt=watch%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.to&pu=https%3a%2f%2fppv.to%2flive%2f247-the-simpsons&pv=8.36.4&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.9&vb=1&vi=1&vl=90&wd=960&ab=0&bwe=5000&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3a%2f%2fgg.poocloud.in%2fthesimpsons%2findex.m3u8&pd=2&pdr=&plng=en&pni=0&pogt=stream%2024%2f7%20the%20simpsons%20for%20free%20on%20ppv.land&pr=4&tb=0&vd=0&sa=1761805754302
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",Master stream test
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/

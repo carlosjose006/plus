@@ -58,7 +58,7 @@ https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/afcon2/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon2/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Zimbabwe vs. South Africa
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -68,7 +68,7 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/afcon2/index.m3u8
+https://gg.poocloud.in/afcon2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Zambia vs. Morocco
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -138,7 +138,7 @@ https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/afcon/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/afcon/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Gabon vs. Ivory Coast
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -153,7 +153,7 @@ https://gg.poocloud.in/afcon/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/pl_cry/tracks-v1a1/mono.ts.m3u8
+https://gg.poocloud.in/pl_cry/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Liverpool vs. Leeds United
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -373,7 +373,7 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -383,12 +383,12 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/wrestling/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -398,12 +398,12 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/southpark/index.m3u8?md5=wiqff_tgbw_1tl6eg2zsbq&expires=1767088381&net=mtcyljixns4ymtcuotc%3d
+https://gg.poocloud.in/southpark/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/cows/index.m3u8?md5=f_qvzp7jdubc2ps4woorma&expires=1767088392&net=mtcyljixns4ymtcuotc%3d
+https://gg.poocloud.in/cows/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
@@ -413,7 +413,7 @@ https://gg.poocloud.in/familyguy/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://gg.poocloud.in/thesimpsons/index.m3u8?md5=syys9joxvpr9xlaevcg6jq&expires=1767088410&net=mtcyljixns4ymtcuotc%3d
+https://gg.poocloud.in/thesimpsons/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",Master stream test
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/

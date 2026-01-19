@@ -1,10 +1,45 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Portland Trail Blazers vs. Sacramento Kings
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Milwaukee Bucks vs. Atlanta Hawks
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Toronto Raptors vs. Los Angeles Lakers
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Oklahoma City Thunder vs. Cleveland Cavaliers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",LA Clippers vs. Washington Wizards
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Dallas Mavericks vs. New York Knicks
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Utah Jazz vs. San Antonio Spurs
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Indiana Pacers vs. Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Phoenix Suns vs. Brooklyn Nets
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Boston Celtics vs. Detroit Pistons
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Basketball",Miami Heat vs. Golden State Warriors
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
@@ -29,23 +64,293 @@
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",AJ Auxerre vs. Paris Saint-Germain
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",St. Pauli vs. Hamburg SV
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Inter Milan vs. Pisa
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Levante vs. Elche
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",West Ham United vs. Sunderland
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Rayo Vallecano vs. Osasuna
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Como vs. Torino
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",1. FC Heidenheim 1846 vs. RB Leipzig
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Bayer Leverkusen vs. Werder Bremen
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Bayern Munich vs. FC Augsburg
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Eintracht Frankfurt vs. TSG Hoffenheim
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Mainz vs. VfL Wolfsburg
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Burnley vs. Tottenham Hotspur
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Fulham vs. Brighton & Hove Albion
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Manchester City vs. Wolverhampton Wanderers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Valencia vs. Espanyol
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Stade Rennais vs. Lorient
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Fiorentina vs. Cagliari
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Sevilla vs. Athletic Club
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",1. FC Union Berlin vs. Borussia Dortmund
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",AFC Bournemouth vs. Liverpool
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Le Havre AC vs. AS Monaco
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Lecce vs. Lazio
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Villarreal vs. Real Madrid
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Marseille vs. Lens
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Sassuolo vs. Cremonese
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Atlético Madrid vs. Mallorca
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Brentford vs. Nottingham Forest
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Crystal Palace vs. Chelsea
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Newcastle United vs. Aston Villa
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Atalanta vs. Parma
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Genoa vs. Bologna
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Nantes vs. Nice
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Borussia Mönchengladbach vs. VfB Stuttgart
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Barcelona vs. Real Oviedo
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Brest vs. Toulouse
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Metz vs. Lyon
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Paris FC vs. Angers
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",SC Freiburg vs. FC Cologne
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Arsenal vs. Manchester United
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Juventus vs. Napoli
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Real Sociedad vs. Celta Vigo
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",AS Roma vs. AC Milan
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Lille vs. Strasbourg
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Alavés vs. Real Betis
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Hellas Verona vs. Udinese
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Girona vs. Getafe
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Football",Everton vs. Leeds United
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: Friday Night Smackdown
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",WWE: NXT
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Wednesday Night Dynamite
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",TNA: Impact
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="Wrestling",AEW: Saturday Night Collision
+#EXTVLCOPT:http-origin=https://veplay.top
+#EXTVLCOPT:http-referrer=https://veplay.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://strm.poocloud.in/secure/vosmfprlqkaqekoorkeynfdxakoehatv/0/1768882202/southpark/index.m3u8
+https://strm.poocloud.in/secure/arasyglniuacywqhrcjmadpiyxanznzq/0/1768891226/southpark/bible-verses.best/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://strm.poocloud.in/secure/rlebdjlmaaiedvcqcfxcrcqwyuxuaosk/0/1768882211/cows/index.m3u8
+https://strm.poocloud.in/secure/zmbpmeozbefupijtrccehlkfjasswhyq/0/1768891235/cows/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 Family Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://strm.poocloud.in/secure/oimayukuqrjcbdcfptpmzmzliolmztrs/0/1768882221/familyguy/indian-cycling-store.best/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/znjgkadweakjzfkjcpgmywwvrdsowfeh/0/1768891245/familyguy/chinese-wedding-services.best/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-logo="https://tinyurl.com/drewsportslogo" group-title="24/7 Streams",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://strm.poocloud.in/secure/idfapfxkrprezsnojlpwzsrjiskgfdju/0/1768882230/thesimpsons/bible-verses.best/tracks-v1a1/mono.ts.m3u8
+https://strm.poocloud.in/secure/rdjpucpdrxtqxrryzocpuoowbwpdjyco/0/1768891254/thesimpsons/index.m3u8
